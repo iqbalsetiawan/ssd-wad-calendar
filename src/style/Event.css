@@ -1,0 +1,42 @@
+.event {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+
+.event-info {
+  flex-grow: 1;
+  margin-right: 10px;
+}
+
+.event-name {
+  font-weight: bold;
+}
+
+.event-time {
+  color: #555;
+}
+
+.event-invitees {
+  color: #777;
+  font-style: italic;
+}
+
+.event-controls button {
+  border: none;
+  background-color: transparent;
+  color: #999;
+  cursor: pointer;
+  margin-left: 5px;
+  font-size: 12px;
+  transition: color 0.3s ease;
+}
+
+.event-controls button:hover {
+  color: #333;
+}
