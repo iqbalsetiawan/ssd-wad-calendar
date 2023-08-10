@@ -2,6 +2,8 @@
 
 The Calendar App is a simple web application that allows users to view, add, edit, and delete events in a calendar interface. It provides a user-friendly way to manage events on specific days within a selected month.
 
+![App Screenshot](https://github.com/iqbalsetiawan/ssd-wad-calendar/assets/52906490/7dfb3b60-8a96-46b6-894c-362d242ece3a)
+
 ## Features
 
 - View current month with days of the week and events displayed.
